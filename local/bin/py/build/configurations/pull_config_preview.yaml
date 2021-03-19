@@ -47,7 +47,7 @@
     contents:
 
     - action: integrations
-      branch: master
+      branch: cswatt/okr-previews-3
       globs:
       - "*/metadata.csv"
       - "*/manifest.json"
