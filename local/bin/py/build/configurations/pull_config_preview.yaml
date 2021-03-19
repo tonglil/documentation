@@ -47,7 +47,7 @@
     contents:
 
     - action: integrations
-      branch: cswatt/okr-previews-3
+      branch: cswatt/containerized-mongodb
       globs:
       - "*/metadata.csv"
       - "*/manifest.json"
