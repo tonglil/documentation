@@ -1069,7 +1069,7 @@
       "type": "group",
       "widgets": [
         {
-          "definition": {},
+          "definition": "[object Object]",
           "layout": {
             "height": 0,
             "width": 0,
@@ -1085,17 +1085,7 @@
       "type": "group",
       "widgets": [
         {
-          "definition": {
-            "alert_id": "",
-            "time": {
-              "live_span": "string"
-            },
-            "title": "string",
-            "title_align": "string",
-            "title_size": "string",
-            "type": "alert_graph",
-            "viz_type": "string"
-          },
+          "definition": "[object Object]",
           "id": "integer",
           "layout": {
             "height": 0,

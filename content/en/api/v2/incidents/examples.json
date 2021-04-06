@@ -14,10 +14,7 @@
                 "customer_impacted": false,
                 "detected": "2019-09-19T10:00:00.000Z",
                 "fields": {
-                  "<any-key>": {
-                    "type": "dropdown",
-                    "value": "SEV-1"
-                  }
+                  "<any-key>": {}
                 },
                 "modified": "2019-09-19T10:00:00.000Z",
                 "notification_handles": [
@@ -134,10 +131,7 @@
               "customer_impacted": false,
               "detected": "2019-09-19T10:00:00.000Z",
               "fields": {
-                "<any-key>": {
-                  "type": "dropdown",
-                  "value": "SEV-1"
-                }
+                "<any-key>": {}
               },
               "modified": "2019-09-19T10:00:00.000Z",
               "notification_handles": [
@@ -249,10 +243,7 @@
           "attributes": {
             "customer_impacted": false,
             "fields": {
-              "<any-key>": {
-                "type": "dropdown",
-                "value": "SEV-1"
-              }
+              "<any-key>": {}
             },
             "initial_timeline_cells": [],
             "notification_handles": [
@@ -329,10 +320,7 @@
               "customer_impacted": false,
               "detected": "2019-09-19T10:00:00.000Z",
               "fields": {
-                "<any-key>": {
-                  "type": "dropdown",
-                  "value": "SEV-1"
-                }
+                "<any-key>": {}
               },
               "modified": "2019-09-19T10:00:00.000Z",
               "notification_handles": [
@@ -441,10 +429,7 @@
               "customer_impacted": false,
               "detected": "2019-09-19T10:00:00.000Z",
               "fields": {
-                "<any-key>": {
-                  "type": "dropdown",
-                  "value": "SEV-1"
-                }
+                "<any-key>": {}
               },
               "modified": "2019-09-19T10:00:00.000Z",
               "notification_handles": [
@@ -583,10 +568,7 @@
             "customer_impacted": false,
             "detected": "2019-09-19T10:00:00.000Z",
             "fields": {
-              "<any-key>": {
-                "type": "dropdown",
-                "value": "SEV-1"
-              }
+              "<any-key>": {}
             },
             "notification_handles": [
               "@test.user@test.com"
