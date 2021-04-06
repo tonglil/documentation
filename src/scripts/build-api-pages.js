@@ -311,6 +311,12 @@ const filterJson = (actionType, data, parentExample = null, requiredKeys = [], l
             suffixType = '}';
             newParentKey = "additionalProperties";
           }
+        } else if (typeof value === 'object' && "oneOf" in value) {
+          if (Object.keys(value.oneOf).length !== 0) {
+            childData = value.oneOf[0].properties;
+            prefixType = '{';
+            suffixType = '}';
+          }
         }
 
         // choose the example to use
